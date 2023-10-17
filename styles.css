@@ -1,0 +1,60 @@
+.box1{
+background-color: aqua;
+width: 500px;
+height: 350px;
+display: flex;
+margin: 40px;
+padding: 0;
+}
+
+.box2{
+    background-color: grey;
+    width: 300px;
+    height: 300px;
+    flex-direction: column;
+    display: flex;
+    
+    padding: 40px;
+}
+
+.box3{
+background-color: white;
+width: 300px;
+height: 300px;
+flex-direction: column;
+margin-right: 10px;
+padding: 40px;
+padding-right: 90px;
+}
+
+.body{
+    background-color: rgb(68, 58, 68);
+}
+
+.heading1{
+    font-style: italic;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading2{
+    text-align: justify;
+    font-size: 15px;
+}
+
+.btn{
+    border-radius: 100%;
+    width: 200px;
+    height: 50px;
+    border-bottom: 40px;
+    transition: 1s;
+    }
+
+.btn:hover{
+    background-color: brown;
+}
+
+
+
+
